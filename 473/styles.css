@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #323232;
+}
+
+.toppboks{
+    background-image: url("bilder/cool-4k-wallpaper-2.jpg"); 
+    background-position: center;
+    background-size: cover;
+    height: 240px;
+    margin: 5px;
+    padding: 5px;
+    color: lightgray;
+
+}
+
+.meny{
+    background-color: #243b20;
+    margin: 5px;
+    padding: 5px;
+    color: rgb(240, 240, 240);
+}
+
+.innhold{
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+}
+
+.innpakning{
+    width: 80%;
+    margin: auto;
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: column; 
+}
+
+.litenboks{
+    background-color: gray;
+    padding: 2px;
+    margin: 2px;
+    width: 250px;
+    height: 300px;
+    margin: right;
+}
